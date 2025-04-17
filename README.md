@@ -7,3 +7,5 @@ Campus2Corporate is a full-stack AI-enhanced web portal built to streamline plac
 - 🤖 **AI Evaluation** — Integrated Gemini API for real-time code analysis and scoring
 - 📊 **Progress Dashboard** — Visual progress tracker with points and task status
 - 🎤 **Alumni Insights** — Interview experiences searchable by company or role
+
+![image](https://github.com/user-attachments/assets/eb44c7c0-0fb1-4bd9-9dd5-fbad4596c378)
